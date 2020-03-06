@@ -1,0 +1,32 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Coinbase BTC wallet",
+      "logo": "/images/vendor-bitcoin.svg",
+      "color": "#356fea",
+      "theme": "light"
+    },
+    {
+      "id": 2,
+      "name": "NIP bank",
+      "logo": "/images/vendor-ninja.svg",
+      "color": "#222222",
+      "theme": "dark"
+    },
+    {
+      "id": 3,
+      "name": "Blockchain.info",
+      "logo": "/images/vendor-blockchain.svg",
+      "color": "#002981",
+      "theme": "light"
+    },
+    {
+      "id": 4,
+      "name": "Evil mf",
+      "logo": "/images/vendor-evil.svg",
+      "color": "#F33355",
+      "theme": "dark"
+    }
+  ]
+}
